@@ -1,5 +1,8 @@
-Instalacja pluginów
-==============================
+---
+title: "Instalacja pluginów"
+category: Podstawy zarządzania serwerem
+order: 1
+---
 **Panel Craftserve** co prawda posiada zakładkę automatycznej instalacji pluginów, jednak funkcja ta nie działa najlepiej. Instalacja często ***nie dobiega do końca***, a jeśli już się to uda, to zainstalowana wersja pluginu ***nie jest obsługiwana*** przez dany silnik.
 
 Dlatego, by zainstalować pluginy najlepiej jest to zrobić tradycyjną metodą - wykorzystując **FTP** lub zakładkę **Pliki** w panelu Craftserve. Do uruchomienia pluginów potrzebujemy jeden z silników obsługujących je, np:
@@ -19,4 +22,4 @@ Niestety, biblioteka pluginów Sponge'a jest zdecydowanie uboższa, niż ta Bukk
 Instalacja
 ----------
 Do zarządzania plikami można wykorzystać zakładkę **Pliki** w panelu Craftserve lub protokół **FTP** i obsługującego go klienta, np. **FileZilla**:
-![FileZilla](img/filezilla.png)
+![FileZilla](/img/filezilla.png)
