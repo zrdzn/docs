@@ -14,5 +14,4 @@
 * [spigot.yml - poradnik](spigot.yml.md)
 * [Timingi](timings.md)
 * [bukkit.yml - poradnik](bukkit.yml.md)
-* [TODO:](todo.md)
 
